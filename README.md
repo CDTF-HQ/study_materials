@@ -1,2 +1,2 @@
 # study_materials
-This Repo gathers my Notion ( and other platforms ) 's Notes on my Cyber Security learning Journey, carefully Enjoy !
+This Repo gathers my Notes on my Network skills, Cyber Security and other Tech knowledge related to my learning Journey, Happy Hacking :D
