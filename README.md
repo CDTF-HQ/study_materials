@@ -1,5 +1,5 @@
 # Hello World !! 
-This Repo gathers my Notes on my Network skills, Cyber Security and other Tech knowledge related to my learning Journey, Happy Hacking :D
+Hello fellow ITs around the world this is my newly made place that will contain Educational content, my personal projects and general notes about IT and Tech topics and trends, enjoy it and use anything available here or outside in the wild responsibly, Thanks Folks and Happy Coding/Hacking/Reading ( you name it hahah ) !
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
